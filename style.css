@@ -1,0 +1,47 @@
+header {
+    font-family: "Lucida Sans", Verdana, Geneva, Tahoma, sans-serif;
+}
+
+    span{
+      font-size: 35px;
+    }
+header, footer {
+    color: white;
+    padding: 16px;
+    background: #9e46bf;
+}
+
+header, a{
+    color: white;
+}
+
+ul {
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  li, .rede-social {
+    margin-left: 48px;
+    
+  }
+
+p {
+    color: black; 
+    font-size: 20px;
+}
+
+title {
+    background-color: rgb(175, 194, 33);
+    margin: 16px;
+}
+
+img {
+    margin: 32px;
+}
+
+main {
+    background-color: chocolate;
+    padding: 16px;
+    color: black;
+}
+
